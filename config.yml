@@ -1,7 +1,7 @@
 baseURL: https://lylyalong.github.io/eamontech/
 theme: pure
 title: Eamon's Blog
-defaultContentLanguage: en  # en/zh/...
+defaultContentLanguage: zh  # en/zh/...
 footnoteReturnLinkContents: ↩
 hasCJKLanguage: true
 publishDir: docs
